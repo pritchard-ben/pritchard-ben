@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pritchard-ben
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Computer Science at Loughborough University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python, javascript 
 - 📫 How to reach me:
-ig: ben.pritchard_
-student email: b.j.h.p-21@student.lboro.ac.uk
+-    ig: ben.pritchard_
+-    student email: b.j.h.p-21@student.lboro.ac.uk
