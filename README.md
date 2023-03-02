@@ -9,9 +9,8 @@
 </div>
 ---
 <div>
-  <p>Computer Science student at Loughborough University, second year
-  How to reach me:
-  email: benjhpritchard@gmail.com
-  Other details elsewhere on my profile
-  </p>
+  <p>Computer Science student at Loughborough University, second year</p>
+  <p>How to reach me:</p>
+  <p>email: benjhpritchard@gmail.com</p>
+  <p>Other details elsewhere on my profile</p>
 </div>
