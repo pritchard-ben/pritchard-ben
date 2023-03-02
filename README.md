@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=pritchard-ben)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @pritchard-ben
 - 🌱 I’m currently learning Computer Science at Loughborough University
 - 💞️ I’m looking to collaborate
