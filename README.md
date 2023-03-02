@@ -1,6 +1,7 @@
 <h1>Welcome to my GitHub account</h1>
 <div>
-  <p>I am a second year Computer Science student at Loughborough University</p>
+  <p>Second year Computer Science student at Loughborough University</p>
+  <p>Keeping the readME short and sweet<p>
 </div>
 
 <div>
