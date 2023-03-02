@@ -2,9 +2,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pritchard-ben)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
+
 - 👋 Hi, I’m @pritchard-ben
 - 🌱 I’m currently learning Computer Science at Loughborough University
-- 💞️ I’m looking to collaborate
 - 📫 How to reach me:
--    email: benjhpritchard@gmail.com
--    student email: b.j.h.p-21@student.lboro.ac.uk
+email: benjhpritchard@gmail.com
