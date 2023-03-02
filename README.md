@@ -12,4 +12,4 @@
 </div>
 <p> </p>
 
-(https://github-profile-trophy.vercel.app/?username=pritchard-ben&column=3&margin-w=15&margin-h=15)
+[image](https://github-profile-trophy.vercel.app/?username=pritchard-ben&column=3&margin-w=15&margin-h=15)
