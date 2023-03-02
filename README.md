@@ -1,9 +1,6 @@
 <h1>Welcome to my GitHub account</h1>
 <div>
   <p>I am a second year Computer Science student at Loughborough University</p>
-  <p>How to reach me:</p>
-  <p>email: benjhpritchard@gmail.com</p>
-  <p>Other details elsewhere on my profile</p>
 </div>
 
 <div>
