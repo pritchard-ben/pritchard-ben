@@ -7,9 +7,11 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pritchard-ben&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritchard-ben&layout=compact" />
 </div>
+---
 <div>
-  Computer Science student at Loughborough University, second year
+  <p>Computer Science student at Loughborough University, second year
   How to reach me:
   email: benjhpritchard@gmail.com
   Other details elsewhere on my profile
+  </p>
 </div>
