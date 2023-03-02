@@ -1,3 +1,5 @@
+<h1>Hi, I'm Ben Pritchard </h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=pritchard-ben)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @pritchard-ben
