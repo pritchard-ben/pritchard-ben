@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub account</h1>
 <div>
-  <p>Final year Computer Science student at Loughborough University</p>
+  <p>First Class Honours Computer Science graduate from Loughborough University</p>
 </div>
 
 <div>
